@@ -1,0 +1,16 @@
+name = WebBuild
+description = WebBuild install profile
+core = 7.x
+
+
+
+; Core dependencies
+dependencies[] = contextual
+dependencies[] = field_ui
+dependencies[] = menu
+dependencies[] = overlay
+dependencies[] = path
+
+
+; Contrib dependecies
+dependencies[] = features
