@@ -1,4 +1,5 @@
 bald-funkster
 =============
 
-General repository for Drupal distributions &amp; other code stuff
+General repository for Drupal distributions
+& other development stuff.
