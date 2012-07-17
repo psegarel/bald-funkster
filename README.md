@@ -1,4 +1,4 @@
 bald-funkster
 =============
 
-Profile distribution 
+Profile distribution based on BuildKit
